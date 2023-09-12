@@ -1,11 +1,10 @@
 # Hospital Management System
 
+![hospital_management_system](https://github.com/RedisMadani/hospital-management-app/assets/136177376/42e05e69-ac22-492d-b2bc-178df74d96ad)
+
 ## Introduction
 
 The Hospital Management System is a web application developed using MySQL, PHP, and Bootstrap. It provides an efficient platform for managing hospital operations, including patient appointments, doctor schedules, and administrative tasks. The system aims to streamline hospital processes and enhance the overall healthcare experience.
-
-- **Video Demo**: [Hospital Management System - YouTube](https://www.youtube.com/watch?v=<VIDEO_ID>)
-- **Live Demo**: [Hospital Management System - 000webhost by Kishan](<LIVE_DEMO_URL>)
 
 ## Key Features
 
