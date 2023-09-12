@@ -1,6 +1,6 @@
 # Hospital Management System
 
-![hospital_management_system](https://github.com/RedisMadani/hospital-management-app/assets/136177376/42e05e69-ac22-492d-b2bc-178df74d96ad)
+![hospital_management_system](https://github.com/RedisMadani/hospital-management-app/assets/136177376/2658b47d-7248-4925-a559-b723b92775f5)
 
 ## Introduction
 
